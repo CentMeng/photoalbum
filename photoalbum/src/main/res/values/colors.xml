@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="photo_basecolor">#12ADFA</color>
+    <color name="photo_white">#fff</color>
+    <color name="photo_black">#000</color>
+</resources>
